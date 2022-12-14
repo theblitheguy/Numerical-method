@@ -15,7 +15,7 @@ int main()
     {
         for(int j=0;j<4;j++)
         {
-            //cout....
+            cout<<"s"<<"["<<i<<"]"<<"["<<j<<"]"<<"::";
             cin>>s[i][j];
         }
         cout<<endl;
